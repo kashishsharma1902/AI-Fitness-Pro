@@ -16,6 +16,12 @@ AI Fitness Pro is an intelligent fitness planning web application that generates
 - Google Gemini API
 - dotenv
 
+![image alt](https://github.com/kashishsharma1902/AI-Fitness-Pro/blob/main/mainpage.PNG?raw=true)
+![image alt](https://github.com/kashishsharma1902/AI-Fitness-Pro/blob/main/calculatorpage.PNG?raw=true)
+![image alt](https://github.com/kashishsharma1902/AI-Fitness-Pro/blob/main/aiplannerpage.PNG?raw=true)
+![image alt](https://github.com/kashishsharma1902/AI-Fitness-Pro/blob/main/personizedplanpage.PNG?raw=true)
+
+
 - # Project Structure
 
 AI-Fitness-Pro/
